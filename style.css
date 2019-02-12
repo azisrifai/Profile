@@ -1,0 +1,108 @@
+html {
+    scroll-behavior: smooth;
+}
+
+nav {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12), 0 2px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.jumbotron {
+    padding-top: 200px;
+}
+
+.jumbotron a {
+    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.11), 0 5px 15px 0 rgba(0, 0, 0, 0.08);
+}
+
+.jumbotron a:hover {
+
+    box-shadow: none;
+}
+
+.education {
+    padding-top: 100px;
+}
+
+.education h1 {
+    text-align: center;
+    font-size: 64px;
+    margin-top: 50px;
+}
+
+.education .card {
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    border: none;
+    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.11), 0 5px 15px 0 rgba(0, 0, 0, 0.08);
+}
+
+.education h5 {
+    margin-bottom: 30px;
+}
+
+.education img {
+    width: 64px;
+    margin-bottom: 30px;
+}
+
+.ability {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.ability h1 {
+    text-align: center;
+}
+
+.skill {
+    text-align: center;
+}
+
+.skill img {
+    margin: 25px;
+    width: 64px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 30%;
+    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.11), 0 5px 15px 0 rgba(0, 0, 0, 0.08);
+}
+
+.portofolio {
+    padding-top: 50px;
+}
+
+.portofolio h1 {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.portofolio .card {
+    border: none;
+    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.11), 0 5px 15px 0 rgba(0, 0, 0, 0.08);
+    padding: 10px;
+}
+
+.portofolio a {
+    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.11), 0 5px 15px 0 rgba(0, 0, 0, 0.08);
+    margin-top: 20px;
+}
+
+.one-piece {
+    background-color: hsl(217, 71%, 53%);
+}
+
+.socmed {
+    padding-top: 120px;
+}
+
+.socmed h1 {
+    text-align: center;
+    padding-top: 60px;
+}
+
+footer {
+    padding-top: 100px;
+    padding-bottom: 20px;
+    text-align: center;
+}
